@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+.nameOne {
+    display: flex;
+}
+
+form {
+    background-color: rgb(152, 96, 12);
+    max-width: 800px;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.emailWidhth {
+    width: 310px;
+}
+
+.selectedWidht {
+    width: 310px;
+}
+
+.submitBotton {
+    width: 310px;
+    margin-top: 20px;
+}
